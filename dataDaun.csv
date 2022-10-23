@@ -1,0 +1,102 @@
+Nomor;panjang;lebar;warna;Bentuk;Tekstur Tepi;Bau;Tulang Daun;Tekstur Daun;Motif Daun;Main;Jenis Daun
+1;1;2;1;3;1;2;1;0;2;A;Kembang sepatu
+2;1;1;1;3;1;2;1;0;2;A;Kembang sepatu
+3;1;2;1;3;1;2;1;0;2;A;Kembang sepatu
+4;1;2;1;3;1;2;1;0;2;A;Kembang sepatu
+5;1;2;1;3;1;2;1;0;2;A;Kembang sepatu
+6;1;1;1;3;1;2;1;0;2;A;Kembang sepatu
+7;1;2;1;3;1;2;1;0;2;A;Kembang sepatu
+8;2;2;1;3;1;2;1;0;2;A;Kembang sepatu
+9;1;2;1;3;1;2;1;0;2;A;Kembang sepatu
+10;1;2;1;3;1;2;1;0;2;A;Kembang sepatu
+11;1;0;4;3;0;2;0;0;0;B;Daun Wungu
+12;1;1;4;3;0;2;0;0;0;B;Daun Wungu
+13;0;0;4;3;0;2;0;0;0;B;Daun Wungu
+14;0;0;4;3;0;2;0;0;0;B;Daun Wungu
+15;0;0;4;3;0;2;0;0;0;B;Daun Wungu
+16;0;0;4;3;0;2;0;0;0;B;Daun Wungu
+17;0;0;4;3;0;2;0;0;0;B;Daun Wungu
+18;0;0;4;3;0;2;0;0;0;B;Daun Wungu
+19;0;0;4;3;0;2;0;0;0;B;Daun Wungu
+20;0;0;4;3;0;2;0;0;0;B;Daun Wungu
+21;0;1;1;6;0;1;1;1;0;C;Daun Dafnah
+22;0;2;1;6;0;1;1;1;0;C;Daun Dafnah
+23;0;2;1;6;0;1;1;1;0;C;Daun Dafnah
+24;0;2;1;6;0;1;1;1;0;C;Daun Dafnah
+25;0;2;1;6;0;1;1;1;0;C;Daun Dafnah
+26;0;1;1;6;0;1;1;1;0;C;Daun Dafnah
+27;0;2;1;6;0;1;1;1;0;C;Daun Dafnah
+28;0;2;1;6;0;1;1;1;0;C;Daun Dafnah
+29;0;2;1;6;0;1;1;1;0;C;Daun Dafnah
+30;0;2;1;6;0;1;1;1;0;C;Daun Dafnah
+31;1;2;0;3;1;1;1;0;0;D;Kantil
+32;1;1;0;3;1;1;1;0;0;D;Kantil
+33;0;3;0;3;1;1;1;0;0;D;Kantil
+34;1;3;0;3;1;1;1;0;0;D;Kantil
+35;0;3;0;3;1;1;1;0;0;D;Kantil
+36;0;3;0;3;1;1;1;0;0;D;Kantil
+37;0;2;0;3;1;1;1;0;0;D;Kantil
+38;0;3;0;3;1;1;1;0;0;D;Kantil
+39;0;2;0;3;1;1;1;0;0;D;Kantil
+40;1;2;0;3;1;1;1;0;0;D;Kantil
+41;0;4;1;6;3;2;2;0;3;E;Puring Lele
+42;0;7;1;6;3;2;2;0;3;E;Puring Lele
+43;0;7;1;6;3;2;2;0;3;E;Puring Lele
+44;0;6;1;6;3;2;2;0;3;E;Puring Lele
+45;0;7;1;6;3;2;2;0;3;E;Puring Lele
+46;0;7;1;6;3;2;2;0;3;E;Puring Lele
+47;0;7;1;6;3;2;2;0;3;E;Puring Lele
+48;0;7;1;6;3;2;2;0;3;E;Puring Lele
+49;0;7;1;6;3;2;2;0;3;E;Puring Lele
+50;0;7;1;6;3;2;2;0;3;E;Puring Lele
+51;7;0;0;4;0;1;1;0;0;F;Kamboja
+52;7;1;0;4;0;1;1;0;0;F;Kamboja
+53;7;0;0;4;0;1;1;0;0;F;Kamboja
+54;7;0;0;4;0;1;1;0;0;F;Kamboja
+55;5;1;0;4;0;1;1;0;0;F;Kamboja
+56;4;0;0;4;0;1;1;0;0;F;Kamboja
+57;4;0;0;4;0;1;1;0;0;F;Kamboja
+58;5;0;0;4;0;1;1;0;0;F;Kamboja
+59;7;0;0;4;0;1;1;0;0;F;Kamboja
+60;5;0;0;4;0;1;1;0;0;F;Kamboja
+61;6;0;6;4;0;3;1;0;2;G;Puring
+62;6;0;6;4;0;3;1;0;2;G;Puring
+63;6;0;6;4;0;3;1;0;2;G;Puring
+64;6;0;6;4;0;3;1;0;2;G;Puring
+65;6;0;6;4;0;3;1;0;2;G;Puring
+66;6;0;6;4;0;3;1;0;2;G;Puring
+67;5;0;6;4;0;3;1;0;2;G;Puring
+68;4;0;6;4;0;3;1;0;2;G;Puring
+69;5;0;6;4;0;3;1;0;2;G;Puring
+70;4;0;6;4;0;3;1;0;2;G;Puring
+71;4;0;1;4;0;1;1;0;0;H;klengkeng
+72;4;0;1;4;0;1;1;0;0;H;klengkeng
+73;4;0;1;4;0;1;1;0;0;H;klengkeng
+74;5;0;1;4;0;1;1;0;0;H;klengkeng
+75;6;0;1;4;0;1;1;0;0;H;klengkeng
+76;5;0;1;4;0;1;1;0;0;H;klengkeng
+77;4;0;1;4;0;1;1;0;0;H;klengkeng
+78;6;0;1;4;0;1;1;0;0;H;klengkeng
+79;5;0;1;4;0;1;1;0;0;H;klengkeng
+80;5;0;1;4;0;1;1;0;0;H;klengkeng
+81;2;0;2;4;0;0;1;0;0;I;sirsak
+82;3;0;2;4;0;0;1;0;0;I;sirsak
+83;2;0;2;4;0;0;1;0;0;I;sirsak
+84;3;0;2;4;0;0;1;0;0;I;sirsak
+85;3;0;2;4;0;0;1;0;0;I;sirsak
+86;3;0;2;4;0;0;1;0;0;I;sirsak
+87;3;0;2;4;0;0;1;0;0;I;sirsak
+88;3;0;2;4;0;0;1;0;0;I;sirsak
+89;3;0;2;4;0;0;1;0;0;I;sirsak
+90;4;0;2;4;0;0;1;0;0;I;sirsak
+91;2;0;2;4;0;1;0;0;0;J;alpukat
+92;2;0;2;4;0;1;0;0;0;J;alpukat
+93;3;0;2;4;0;1;0;0;0;J;alpukat
+94;3;0;2;4;0;1;0;0;0;J;alpukat
+95;3;0;2;4;0;1;0;0;0;J;alpukat
+96;3;0;2;4;0;1;0;0;0;J;alpukat
+97;3;0;2;4;0;1;0;0;0;J;alpukat
+98;3;0;2;4;0;1;0;0;0;J;alpukat
+99;3;0;2;4;0;1;0;0;0;J;alpukat
+100;3;0;2;4;0;1;0;0;0;J;alpukat
+;;;;;;;;;;;
